@@ -1,4 +1,4 @@
-package Hilos;
+package hilos;
 
 public class TareaReporte implements Runnable {
     private String nombre;

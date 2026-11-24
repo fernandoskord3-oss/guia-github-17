@@ -1,4 +1,4 @@
-package Swing;
+package swing;
 
 import java.awt.FlowLayout;
 import java.awt.Font;

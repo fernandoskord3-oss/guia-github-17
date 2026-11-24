@@ -1,4 +1,4 @@
-package Hilos;
+package hilos;
 
 public class SumaParalela {
     static long parte1, parte2;

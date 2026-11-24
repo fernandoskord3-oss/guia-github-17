@@ -1,4 +1,4 @@
-package Web;
+package web;
 
 public class SocioNoEncontradoException extends Exception {
     public SocioNoEncontradoException(int id) {

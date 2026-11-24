@@ -1,4 +1,4 @@
-package Web;
+package web;
 
 public class Socio {
     private int id;

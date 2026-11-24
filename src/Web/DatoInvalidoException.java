@@ -1,4 +1,4 @@
-package Web;
+package web;
 
 public class DatoInvalidoException extends RuntimeException {
     public DatoInvalidoException(String mensaje) {

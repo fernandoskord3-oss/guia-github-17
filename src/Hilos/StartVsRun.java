@@ -1,4 +1,4 @@
-package Hilos;
+package hilos;
 
 public class StartVsRun {
     public static void main(String[] args) {

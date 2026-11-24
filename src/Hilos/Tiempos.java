@@ -1,4 +1,4 @@
-package Hilos;
+package hilos;
 
 public class Tiempos {
     static void tarea(String nombre) {

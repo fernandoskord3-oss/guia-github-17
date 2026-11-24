@@ -1,7 +1,7 @@
-package Ejercicios;
+package ejercicios;
 
-import Web.RepositorioSocios;
-import Web.ServidorCooperativa;
+import web.RepositorioSocios;
+import web.ServidorCooperativa;
 import com.sun.net.httpserver.HttpServer;
 import java.io.IOException;
 import java.net.InetSocketAddress;

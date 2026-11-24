@@ -1,4 +1,4 @@
-package Hilos;
+package hilos;
 
 public class HiloCajero extends Thread {
     private String caja;
